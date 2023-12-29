@@ -1,13 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
-@font-face {
+/* @font-face {
   font-family: "Poppins";
-  src: url(Poppins-Bol.ttf);
-}
-@font-face {
-  font-family: "Poppins-thin";
-  src: url(Poppins-Thin.ttf);
-}
-
+  src: url(Poppins-Bold.ttf);
+} */
 
 
 * {
@@ -183,7 +178,7 @@ p {
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Poppins';
   padding: 5px 20px;
   /* color: #ffffff; */
   color: #002759;
@@ -593,6 +588,7 @@ p {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+
 }
 
 .why_section .box .img-box img {
